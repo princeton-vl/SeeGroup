@@ -1,0 +1,11 @@
+matplotlib
+opencv-python
+torch
+torchvision
+mmengine
+wandb
+termcolor
+tqdm
+datasets
+Pillow
+requests
