@@ -8,7 +8,7 @@ If you find SeeGroup useful for your work, please consider citing our academic p
 
 <h3 align="center">
     <a href="https://arxiv.org/abs/2605.28735">
-        SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping
+        SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces <br> via Self-Determined Grouping
     </a>
 </h3>
 <p align="center">
